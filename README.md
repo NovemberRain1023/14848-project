@@ -1,5 +1,9 @@
 # 14848-project option-I
 project option I of CMU 14848
+
+video demo on how I build my applications:
+https://cmu.app.box.com/folder/151045892185
+
 I will use docker to deploy all the applications of the project.
 The URL of docker images of my application is:
 https://hub.docker.com/r/harisekhon/hadoop
@@ -43,3 +47,4 @@ I deploy sonarqube and expose it on port 9000
 
 Then I write a JS node terminal and run then dividely:
 ![image](https://user-images.githubusercontent.com/67767809/143726011-9931bf90-af16-4f3e-b196-57992add0155.png)
+
